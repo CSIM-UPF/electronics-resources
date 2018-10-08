@@ -31,6 +31,12 @@ Resources for students who wish to learn about eletronics and hardware.
 - [What's The Difference Between DC, Servo & Stepper Motors?](https://www.modmypi.com/blog/whats-the-difference-between-dc-servo-stepper-motors)
 
 
+## Software
+
+- [Autodesk TinkerCAD](https://www.tinkercad.com/): App for 3D design, electronics, and coding. It's used by teachers, kids, hobbyists, and designers to imagine, design, and make anything!
+- [Fritzing](http://fritzing.org/): Software that allows to move from experimenting with a prototype to building a more permanent circuit.
+
+
 ## Stores and Products
 
 - [ABRA Electronics (CA)](https://abra-electronics.com/)
