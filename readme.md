@@ -26,7 +26,7 @@ Resources for students who wish to learn about eletronics and hardware.
 - [4 Band Resistor Color Code Calculator](https://www.digikey.com/en/resources/conversion-calculators/conversion-calculator-resistor-color-code-4-band): Digikey's web app to calculate resistors value.
 - [507 Mechanical Movements: Mechanisms and Devices](http://507movements.com/): 507 animated mechanical movements.
 - [Graphical Resistor Calculator](http://www.dannyg.com/examples/res2/resistor.htm): Web app to calculate resistors value.
-- [N5DUX Ham Radio PDFs](http://www.n5dux.com/ham/files/pdf/index.php)
+- [N5DUX Ham Radio PDFs](http://www.n5dux.com/ham/files/pdf/index.php): Dozens of amateur radio projects.
 - [Sensors Magazine](https://www.sensorsmag.com/): Sensor technology news and real-world sensor application
 - [What's The Difference Between DC, Servo & Stepper Motors?](https://www.modmypi.com/blog/whats-the-difference-between-dc-servo-stepper-motors)
 
