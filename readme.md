@@ -23,6 +23,7 @@ Resources for students who wish to learn about eletronics and hardware.
 
 ## Other Resources
 
+- [CSIM's Arduino resources](https://github.com/CSIM-UPF/arduino-resources): Resources for students who wish to learn about Arduino.
 - [4 Band Resistor Color Code Calculator](https://www.digikey.com/en/resources/conversion-calculators/conversion-calculator-resistor-color-code-4-band): Digikey's web app to calculate resistors value.
 - [507 Mechanical Movements: Mechanisms and Devices](http://507movements.com/): 507 animated mechanical movements.
 - [Graphical Resistor Calculator](http://www.dannyg.com/examples/res2/resistor.htm): Web app to calculate resistors value.
