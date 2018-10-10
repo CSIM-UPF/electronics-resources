@@ -23,9 +23,11 @@ Resources for students who wish to learn about eletronics and hardware.
 
 ## Other Resources
 
-- [CSIM's Arduino resources](https://github.com/CSIM-UPF/arduino-resources): Resources for students who wish to learn about Arduino.
 - [4 Band Resistor Color Code Calculator](https://www.digikey.com/en/resources/conversion-calculators/conversion-calculator-resistor-color-code-4-band): Digikey's web app to calculate resistors value.
 - [507 Mechanical Movements: Mechanisms and Devices](http://507movements.com/): 507 animated mechanical movements.
+- [Adafruit educational resources](https://learn.adafruit.com/)
+- [CSIM's Arduino resources](https://github.com/CSIM-UPF/arduino-resources): Resources for students who wish to learn about Arduino.
+- [Getting started with Fritzing](http://fritzing.org/learning/get-started/)
 - [Graphical Resistor Calculator](http://www.dannyg.com/examples/res2/resistor.htm): Web app to calculate resistors value.
 - [N5DUX Ham Radio PDFs](http://www.n5dux.com/ham/files/pdf/index.php): Dozens of amateur radio projects.
 - [Sensors Magazine](https://www.sensorsmag.com/): Sensor technology news and real-world sensor application
@@ -41,6 +43,7 @@ Resources for students who wish to learn about eletronics and hardware.
 ## Stores and Products
 
 - [ABRA Electronics (CA)](https://abra-electronics.com/)
+- [Adafruit (US)](https://www.adafruit.com/)
 - [Addison Electronics (CA)](https://addison-electronique.com/)
 - [All Electronics (US)](https://www.allelectronics.com/)
 - [Arduino](https://store.arduino.cc/)
@@ -48,6 +51,7 @@ Resources for students who wish to learn about eletronics and hardware.
 - [Digi-Key (US)](https://www.digikey.com/)
 - [Kubii (ES)](https://www.kubii.es)
 - [National Control Devices](https://ncd.io/)
+- [Nordic Semiconductor (NO)](https://www.nordicsemi.com/)
 - [Raspipc.es (ES)](https://www.raspipc.es)
 - [RobotShop (CA)](https://www.sparkfun.com/)
 - [RS Components GB (ES)](https://es.rs-online.com/)
