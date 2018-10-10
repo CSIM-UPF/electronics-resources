@@ -40,7 +40,7 @@ Resources for students who wish to learn about eletronics and hardware.
 - [Fritzing](http://fritzing.org/): Software that allows to move from experimenting with a prototype to building a more permanent circuit.
 
 
-## Stores and Products
+## Stores
 
 - [ABRA Electronics (CA)](https://abra-electronics.com/)
 - [Adafruit (US)](https://www.adafruit.com/)
@@ -52,10 +52,18 @@ Resources for students who wish to learn about eletronics and hardware.
 - [Digi-Key (US)](https://www.digikey.com/)
 - [Geek Factory (MX)](https://www.geekfactory.mx/)
 - [Kubii (ES)](https://www.kubii.es)
-- [National Control Devices](https://ncd.io/)
-- [Nordic Semiconductor (NO)](https://www.nordicsemi.com/)
 - [Raspipc.es (ES)](https://www.raspipc.es)
 - [RobotShop (CA)](https://www.sparkfun.com/)
 - [RS Components GB (ES)](https://es.rs-online.com/)
 - [Sparkfun (US)](https://www.sparkfun.com/)
 - [Trendatec (ES)](https://www.tiendatec.es)
+
+
+## Products
+
+- [Arduino](https://arduino.cc/)
+- [JeVois Smart Machine Vision Camera](http://www.jevois.org/)
+- [National Control Devices](https://ncd.io/)
+- [Nordic Semiconductor (NO)](https://www.nordicsemi.com/)
+- [Pixy Cam](https://pixycam.com/pixy-cmucam5/)
+- [Raspberry Pi](https://www.raspberrypi.org/)
