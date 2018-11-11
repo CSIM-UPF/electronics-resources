@@ -51,6 +51,7 @@ Resources for students who wish to learn about eletronics and hardware.
 - [Canakit (CA, US)](https://www.canakit.com/)
 - [Digi-Key (US)](https://www.digikey.com/)
 - [Diotronic (ES)](https://diotronic.com/)
+- [e-ika (ES)](https://www.e-ika.com/) (léase electrón-ika)
 - [Geek Factory (MX)](https://www.geekfactory.mx/)
 - [Kubii (ES)](https://www.kubii.es)
 - [Raspipc.es (ES)](https://www.raspipc.es)
